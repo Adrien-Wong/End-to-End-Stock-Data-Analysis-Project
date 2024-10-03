@@ -3,11 +3,11 @@
 ## Project Overview:
 This project showcases my end-to-end data analysis and visualization skills. Using Python, I scraped, cleaned, and processed stock market data from Yahoo Finance, then visualized the insights using Tableau. The dashboard lets users interactively explore the top 25 most active stocks based on market activity, providing insights into stock performance, market capitalization, and sector analysis.
 
-Data Scraping & Processing: Python(Beasutiful Soup, Pandas)  
+Data Scraping & Processing: Python(Beautiful Soup, Pandas)  
 Data Visualization & Interactive Dashboard: Tableau
 
 # How to Use:
-Click on the link below to explore the dashboard:
+Click on the link below to explore the dashboard(Suggest to view it with FullScreen for full functionality):
 https://public.tableau.com/views/End-to-EndStockDataAnalysisDashboard/Dashboard1?:language=zh-TW&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 <img width="1394" alt="螢幕截圖 2024-09-30 下午8 27 16" src="https://github.com/user-attachments/assets/9df286ad-6ba0-4d77-980d-030ec3f6161b">
 
