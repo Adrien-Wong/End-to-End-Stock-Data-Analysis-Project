@@ -11,15 +11,8 @@ Click on the link below to explore the dashboard(Suggest to view it with FullScr
 https://public.tableau.com/views/End-to-EndStockDataAnalysisDashboard/Dashboard1?:language=zh-TW&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 <img width="1394" alt="螢幕截圖 2024-09-30 下午8 27 16" src="https://github.com/user-attachments/assets/9df286ad-6ba0-4d77-980d-030ec3f6161b">
 
-# Data Processing
-#### Scraping Data from the website:
-<img width="687" alt="ScrapeDataSS" src="https://github.com/user-attachments/assets/9bf53a19-81e2-49fd-9f94-84e56fad33a7">
-
-#### Cleansing the data before analysis:
-<img width="689" alt="CleanDataSS" src="https://github.com/user-attachments/assets/77653e40-6f64-4ae9-a20c-6249e9082ad3">
-
-#### Cleansing Deatails Example:  
-Price: Extracting the numeric value from a string that include currency symbols.  
+#### Cleansing Data Details Example:  
+Price: Extracting the numeric value from a string that includes currency symbols.  
 Change and Change %: Converting string representations of numerical values to floats, removing percentage symbols.  
 Volume and Average Volume: Converting values expressed as millions to full numerical representation.  
 Market Cap: Converting values expressed as billions or trillions to their full numerical value.
